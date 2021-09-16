@@ -5,7 +5,7 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"cba_main"};
-        authors[] = {"Harrow"};
+        authors[] = {"RvanBoxtel"};
         VERSION_CONFIG;
     };
 };
