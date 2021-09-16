@@ -6,7 +6,7 @@ about: Report an issue with PROJ_TEMPL
 
 **Arma 3 Version:** `x.xx` (stable / rc / dev)
 **CBA Version:** `3.x.x` (stable / dev + commit hash)
-**proj_templ Version:** `3.x.x` (stable / dev + commit hash)
+**proj_templ Version:** `1.x.x` (stable / dev + commit hash)
 
 **Mods:**
 ```
