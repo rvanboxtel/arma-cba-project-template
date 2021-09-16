@@ -12,6 +12,8 @@ The project template comes with it's own implementation of tools used within the
 
 See the [ACE3 documentation](https://ace3mod.com/wiki/development/setting-up-the-development-environment.html) on setting up your development environment.
 
+When making the folder for cba in the x folder it is recommended to get the latest CBA_A3 release from github instead of an empty folder. as this links directly to CBA_A3 instead of ACE3
+
 
 ### Usage
 
