@@ -8,5 +8,5 @@ logoOver = "logo_proj_templ_ca.paa";
 tooltip = "CBA_A3 Project Template";
 tooltipOwned = "CBA_A3 Project Template Owned";
 overview = "CBA_A3 Project Template";
-author = "Harrow";
+author = "RvanBoxtel";
 overviewPicture = "logo_proj_templ_ca.paa";
