@@ -2,11 +2,11 @@
 <Project name="PROJ_TEMPL">
     <Package name="Main">
         <Key ID="STR_PROJ_TEMPL_Main_URL">
-            <English></English>
+            <English>https://github.com/rvanboxtel/arma-cba-project-template</English>
 
         </Key>
         <Key ID="STR_PROJ_TEMPL_Main_NAME">
-            <English></English>
+            <English>Arma CBA Project Template</English>
 
         </Key>
     </Package>
