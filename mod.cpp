@@ -1,7 +1,7 @@
 name = "CBA_A3 - Project Template";
 picture = "logo_proj_templ_ca.paa";
 actionName = "GitHub";
-action = "https://github.com/acemod/arma-project-template";
+action = "https://github.com/rvanboxtel/arma-cba-project-template";
 description = "Project Template";
 logo = "logo_proj_templ_ca.paa";
 logoOver = "logo_proj_templ_ca.paa";
