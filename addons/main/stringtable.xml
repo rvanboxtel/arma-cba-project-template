@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="PROJ_TEMPL">
+    <Package name="Main">
+        <Key ID="STR_PROJ_TEMPL_Main_URL">
+            <English></English>
+
+        </Key>
+        <Key ID="STR_PROJ_TEMPL_Main_NAME">
+            <English></English>
+
+        </Key>
+    </Package>
+</Project>

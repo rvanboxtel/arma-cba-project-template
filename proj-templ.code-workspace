@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "workbench.preferredHighContrastColorTheme": "Community Material Theme Darker High Contrast",
+        "workbench.preferredDarkColorTheme": "Community Material Theme Darker",
+        "sqf.enableCBA": true,
+        "sqflint.checkPaths": true
+    }
+}

@@ -1,0 +1,12 @@
+name = "CBA_A3 - Project Template";
+picture = "logo_proj_templ_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/acemod/arma-project-template";
+description = "Project Template";
+logo = "logo_proj_templ_ca.paa";
+logoOver = "logo_proj_templ_ca.paa";
+tooltip = "CBA_A3 Project Template";
+tooltipOwned = "CBA_A3 Project Template Owned";
+overview = "CBA_A3 Project Template";
+author = "Harrow";
+overviewPicture = "logo_proj_templ_ca.paa";
